@@ -1,0 +1,5 @@
+Version {version}
+Frame-by-frame animation for Mac and iPad
+Code written with Claude, from Anthropic
+Made with Swift, AppKit, UIKit, Core Graphics and AVFoundation
+© 2026 SwiftCel. An independent project, not affiliated with Apple or Adobe.
